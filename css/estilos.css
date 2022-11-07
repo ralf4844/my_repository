@@ -9,6 +9,7 @@ body
 }
 #container
 {
+    background-color: rgb(222, 224, 233);
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -16,6 +17,9 @@ body
     margin: 0 auto;
 }
 
+#cabecera {
+    background-color: rgb(240, 82, 20);
+}
 #container h1
 {
     font-size: 20px;
